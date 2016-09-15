@@ -1,3 +1,5 @@
+<?php /*
+
 [ViewSettings]
 GroupedInput[]=xrowmetadata
 
@@ -6,3 +8,5 @@ GroupedInput[]=xrowmetadata
 
 [CollectionSettings]
 GroupedInput[]=xrowmetadata
+
+*/
